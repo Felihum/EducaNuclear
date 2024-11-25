@@ -7,24 +7,20 @@ namespace EducaNuclear
     public class CharacterSelectionController : MonoBehaviour
     {
         [SerializeField] private Navigation navigationRef;
-        [SerializeField] private GameObject playBtn;
-        [SerializeField] private GameObject newGameBtn;
-        [SerializeField] private GameObject sairBtn;
         [SerializeField] private GameObject characterSelectionObj;
-        [SerializeField] private GameObject logoObj;
+        [SerializeField] private GameObject menuInicial;
 
 
         public void OpenCharacterSelection()
         {
-            if (playBtn.activeSelf)
-            {
-                playBtn.SetActive(false);
-            }
-
-            newGameBtn.SetActive(false);
-            logoObj.SetActive(false);
-            sairBtn.SetActive(false);
+            menuInicial.SetActive(false);
             characterSelectionObj.SetActive(true);
+        }
+
+        public void CloseCharacterSelection()
+        {
+            menuInicial.SetActive(true);
+            characterSelectionObj.SetActive(false);
         }
 
         public void SelectFemale()
