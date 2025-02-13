@@ -286,18 +286,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 311767128}
     m_Modifications:
-    - target: {fileID: 978266092672930008, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 64.2
-      objectReference: {fileID: 0}
     - target: {fileID: 5026870096285889524, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
       propertyPath: gameManagerRef
       value: 
       objectReference: {fileID: 1414067847}
-    - target: {fileID: 5026870096285889524, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
-      propertyPath: totalPunctuation
-      value: 35
-      objectReference: {fileID: 0}
     - target: {fileID: 7376340447213866673, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -329,18 +321,6 @@ PrefabInstance:
     - target: {fileID: 7376340447213866673, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
       propertyPath: m_SizeDelta.y
       value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 7376340447213866673, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.20091599
-      objectReference: {fileID: 0}
-    - target: {fileID: 7376340447213866673, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.20091599
-      objectReference: {fileID: 0}
-    - target: {fileID: 7376340447213866673, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.20091599
       objectReference: {fileID: 0}
     - target: {fileID: 7376340447213866673, guid: 1671ad3a10c79844aa36f42016215d74, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1307,18 +1287,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 311767128}
     m_Modifications:
-    - target: {fileID: 978266092672930008, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 64.2
-      objectReference: {fileID: 0}
     - target: {fileID: 5026870096285889524, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
       propertyPath: gameManagerRef
       value: 
       objectReference: {fileID: 1414067847}
-    - target: {fileID: 5026870096285889524, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
-      propertyPath: totalPunctuation
-      value: 40
-      objectReference: {fileID: 0}
     - target: {fileID: 7376340447213866673, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1350,18 +1322,6 @@ PrefabInstance:
     - target: {fileID: 7376340447213866673, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
       propertyPath: m_SizeDelta.y
       value: 100
-      objectReference: {fileID: 0}
-    - target: {fileID: 7376340447213866673, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.20091599
-      objectReference: {fileID: 0}
-    - target: {fileID: 7376340447213866673, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.20091599
-      objectReference: {fileID: 0}
-    - target: {fileID: 7376340447213866673, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.20091599
       objectReference: {fileID: 0}
     - target: {fileID: 7376340447213866673, guid: cab043f731e7b0d40a6cea05a8992781, type: 3}
       propertyPath: m_LocalPosition.x
