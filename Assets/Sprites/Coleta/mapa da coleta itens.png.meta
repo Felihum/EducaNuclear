@@ -1,0 +1,7730 @@
+fileFormatVersion: 2
+guid: 61881fa916f9c5442915d5fe2bceb702
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa da coleta itens_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a909f484c7abda40bd6abd26ffd41ea
+      internalID: 354651798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b50de889fa4c5b4eb78c839b2e51aa1
+      internalID: -374934615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701be41de0d4f3b478cb4b73ebae0393
+      internalID: -998747808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144fce5b3297324f895b0f5339a9453
+      internalID: 1686456570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3afdd51d03df88459770e4f2e8b2fc3
+      internalID: 891504912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f9d82cc9d91d540bfb3f8095e6223f
+      internalID: 239272196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7e39e78ba3c9468595881e22d4f2b
+      internalID: 2097029697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd624971961d011419249052a301afbe
+      internalID: 1539456061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00655a2bb6a0a1343a86b14b10ecf828
+      internalID: -1701425955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81222deea56b5a4fb0444ac6997c718
+      internalID: -1343500761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341637b58bf9f6c4ba1a14087682b032
+      internalID: -1025028097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c294815fde7d55a429b41eea4b670cab
+      internalID: 1773145207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ceef6d947595b47bbd91eb709ab7d4
+      internalID: -1786405668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7be3cc943c15af459ad98df155ce285
+      internalID: -298116349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f715928f3fbb74428ba4856c744cf1d
+      internalID: -495118056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_15
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4336aa527c12cd4468445a84e6268eec
+      internalID: -1929061661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_16
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2029238b1ad347f4a838d694838d4ef6
+      internalID: 149448521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_17
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870e8717aca0e74eb469c68da30e32c
+      internalID: 551828266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_18
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26aa3e422d295c4fb0819698bf47611
+      internalID: 1817032434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_19
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bfa9e32e2f6e543a4c974f81a604df
+      internalID: 210478595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_20
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe45578d8ffe7469d55c6953260822
+      internalID: -1530802703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f17bfae15f831242a2690e65b504b0d
+      internalID: 1000345541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_22
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 526
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b234a5a191c5941a90e89ee89343b8
+      internalID: -1735870845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180905676a62cbb4ab5b70bf80f01880
+      internalID: 1247852057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19893747b78f824a8a01c5775e67a0f
+      internalID: -1710916922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68b6a69c3737d2448a5fd7c0b3911ce
+      internalID: 969924420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809e7337418d2a543a2af25f761f1e59
+      internalID: 873970884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_27
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b00bd68c4a8304d8ad37505327d869
+      internalID: -1310793002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc01029a81b908a46bdfd53c5adaf40e
+      internalID: 436120703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_29
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99651b2879098d4da2513aafa17cc3e
+      internalID: 780336241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c33370437e9a4f82f9f957aff99ee
+      internalID: -1820345853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c1f38219f12e24e871d5d17eeb1341
+      internalID: -927336320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f30d2c0aab0af5479626688356d963b
+      internalID: -940615254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_33
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5305fbe07ad5a0d42804f687b5f25e58
+      internalID: -1922374345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeb9356af81f254b944891fccfc7f27
+      internalID: -1136664739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_35
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0bf9c1748f5414eac0b2fd52ce675e
+      internalID: -970263014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44eae0af5b38584b8e00ee90721571d
+      internalID: 1884551307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f31a017401d6d4e987720b67c578ea
+      internalID: -1143458868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_38
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a99d233a272b48b26bb2c1ada28a5
+      internalID: -97409188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_39
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e574a2d9c9da924bbe42c4ce5051ae0
+      internalID: -222092962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_40
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f42e69a3bf2b6a4c873a1a69949ce82
+      internalID: -1681583434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_41
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969fbb9b5656bdd4abe85e9d37b372d4
+      internalID: -1506255439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_42
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71601cb83155a12469139f14d87def14
+      internalID: -1303566085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_43
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5f08596a591fa4b94f7dd402395d71
+      internalID: -1915516002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_44
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd062b3cd434ddd42b30b68d341c8617
+      internalID: -1891482224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_45
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 489
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19bfee17226d1248bfc78a912c6f006
+      internalID: -1911282559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497da6798f2fa54fbc3b6d411c7b622
+      internalID: -190740416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9fc6a8bc9e8d84c99feb88a13cc27d
+      internalID: 2087801741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a85665ebbafc941a5f1db4778532f6
+      internalID: -669621206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1253d78d5b65d2a4496571f578ff9a40
+      internalID: 23884987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f07122e25e78b040914697363770522
+      internalID: -1474938325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_51
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d8f004597ed2549879f51f3fd471a5
+      internalID: 1289551747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd12b4e78532804faf943fae5dd752b
+      internalID: 298389264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4665a7e6a17a3b4fa6577202bec5372
+      internalID: -204867251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15df8c9eae0c30449af354ff35382cd2
+      internalID: 1341590249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_55
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a01b92db6f3fe045a919c065827d818
+      internalID: -1888951382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_56
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d05f0f79fdfe8746beb5621faf79a80
+      internalID: 471214668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_57
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a109279b485a43a666dc4f53843a2
+      internalID: 637946335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf57dd21040354ab95acc1d2b08905
+      internalID: -2141107032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_59
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710cc7d87157b034a84612741042677b
+      internalID: -2031890865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_60
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1687c6411f60e264db2f2e4ce1cf5579
+      internalID: 570355843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_61
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5b20fe25c0eb54baf305383096078a
+      internalID: 265559461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_62
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce83ebbadc4994a9decb110862c44a
+      internalID: 782907554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_63
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972184619f60edc47a29d9f6a5f7795a
+      internalID: -1370893483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_64
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1018cd91e83bfc74ab7d5c1aead7ea63
+      internalID: 218633047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_65
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82827f70f45b3c94f9f8ca3cc12385a0
+      internalID: -33735512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_66
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c06825fd759f9645ad1d32726f48387
+      internalID: 250396456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_67
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f91a4c155e224a8fdc7fc0bf274c7
+      internalID: -1452103838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_68
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 452
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe4b9ed9e4a8b42a0ba3868ce380a6
+      internalID: -460471366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679acf6731621a8469c806da6c19beb9
+      internalID: -1690008107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_70
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de8d24d43119a44b974a1ae99b6e7ef
+      internalID: 454884663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_71
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c2b71a67ee664f8ea304f547bcb2e
+      internalID: -1932414495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385727e7fac6e0b4cb10f77d6fa1f894
+      internalID: -607743054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87318448515c854ba378c62f6564f98
+      internalID: -1885140036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_74
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d05ff89a681f46b180ee592414bc4
+      internalID: 1783596053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_75
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8439e8201dda44abd35052ae0d2fd
+      internalID: 742290834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_76
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084d88e27dd106c48a0dac7bdb56ff51
+      internalID: 1124118874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_77
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb8810ea086b2479927e1cb6d0a8ce
+      internalID: -252694526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_78
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf4b5dd34f4484aa2cca0c580def0e
+      internalID: 416286315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_79
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0480769226bf1e4bb7a3b114a6c83bc
+      internalID: -1509912041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_80
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14a31ab576c7a14aa0f11f7f693e13f
+      internalID: 1331941964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_81
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e000b23449119544987c9da24887cb59
+      internalID: -655045997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_82
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba58adf58fb2e5e49a4cbf299d5fcf66
+      internalID: 1799186179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_83
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204c68e25651ba7408a93594028efcb1
+      internalID: -2429321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_84
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dd29515a5665e438cebc6a051b6162
+      internalID: -1741319212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_85
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37755234dd4ae234fb32fc74ba401737
+      internalID: 786389426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_86
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdcbb5d2dc626248a19a33ae5c6e98a
+      internalID: 183387088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_87
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a3e8734f7cb547a04f4481da4fe47
+      internalID: 2002420946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_88
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395501967a2e0064589948b4b7803f88
+      internalID: -870136214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_89
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b367898cd6ef643956fd8c6cf53c8a
+      internalID: -1618206362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_90
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99aca94d0cb0d84eabe684539c00b9c
+      internalID: 119161150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_91
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 415
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2682c189900e13548ae2d51807230e9a
+      internalID: -1453066365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aae3530464dd624294ec53ed51773a2
+      internalID: -57190550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_93
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4720e199f2e3246b9a05767a0aaeef
+      internalID: 745172401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_94
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825d617516228b46950a5f1cea2bfe1
+      internalID: 1199772172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_95
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f2d0b207084084299fc82adf69a145
+      internalID: 1774612694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_96
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7614963e53484174793a7d34fcbd8f2c
+      internalID: -837283998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_97
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3087a61595647f747ad5b75f96eca270
+      internalID: -823313244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_98
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4c4cdf9d6bd94089394ad3af6c189
+      internalID: 2108158809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742d4f8359b89dc40ae18f8babaa79ea
+      internalID: 993164068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_100
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311bb81fa41e6d428f0ab419b49e043
+      internalID: -515924211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_101
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e7fb3252d8304faf15c7e7a1bcbbf
+      internalID: -639441383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_102
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149887444399f674fbabd4ed8c624297
+      internalID: -521330662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_103
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9329421d732cac947b02658b2a2f42db
+      internalID: 297972955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_104
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73b557292628a4b8fe28cbbe53b83f
+      internalID: -1261863401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_105
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1676e2ee84856f54f8145b9f706cbc45
+      internalID: 996626961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_106
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed26fc21de3626346af5d029b6c03bc9
+      internalID: 1006884126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_107
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1dff047afc714583726d42966a305
+      internalID: 2072068083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_108
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c236a47aab6b1b408864bae08c638ad
+      internalID: 239561968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_109
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794ad7bc570cd93439398b72a540f93f
+      internalID: -1092217973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_110
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd26456e959725498556ac6c324530a
+      internalID: 11751834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_111
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42700087a7eb0ad4a9e363435fd3cc4e
+      internalID: 1406647593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_112
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a96105541b18134d9d53a4789575393
+      internalID: -1974783616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_113
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2e469c07ff2c4f8286baedcd6488b
+      internalID: -2142245502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_114
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 378
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf2276ad2f8bd84da4505b0bd096451
+      internalID: 1949354132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7fccec50fb1d942aa1a6cf3abd308b
+      internalID: 1935850757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_116
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc87e999127e8c4cb30fb2f1f3db1bb
+      internalID: 1602019826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_117
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484c96166b6cd0c4d91816df183527ff
+      internalID: -1923009830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af77b42be1a1940bab479d15329e84
+      internalID: 2092541007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_119
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65303a982ccb0f14484d5403664c3e5d
+      internalID: -1977649618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_120
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ce44bc09dd094396c87bb1e7cf4dc
+      internalID: 1138994776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_121
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02f21bc74f3dc2468dfc07fe8de363c
+      internalID: 1753301208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_122
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7710a2cef4d209439aeef951eb8d418
+      internalID: 349718057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_123
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25db11b357eba0d4780b746bcce8020f
+      internalID: 1933691656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_124
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9c3543dd2f2894baa3d46667d57e37
+      internalID: 1710062693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_125
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8504e1a9974edfd45b224e15b01265c9
+      internalID: 330975443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_126
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26dd2f8a963dfc45ad8a6d092cdcb03
+      internalID: -404625552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_127
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23cabcade52660439dda2455bd8ebb3
+      internalID: -1156477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_128
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d051e75167ffaf048943a311316173a5
+      internalID: -173899300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_129
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78566b1a26428f14783245590bdd8115
+      internalID: -1732726070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_130
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ecd105b91149e4084d7978940656ff
+      internalID: 607757231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_131
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1d070026404524d81623f30902c148
+      internalID: 982984680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_132
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48e625059b35ff4d9e8bfecaeea3f5d
+      internalID: -1351512201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_133
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f435c5231c7774b893b644499ad091
+      internalID: 1170843713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_134
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66bc7e429d0244bb31bf0d9a12c8da
+      internalID: -268274929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_135
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b726744b81ae144d8f0e2c63a9e47c7
+      internalID: 446754741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_136
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d93f8ee11a5e84fbd2bca9638ec6a1
+      internalID: -1912621061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_137
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 341
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8286e98c8ab492458b3d4835e582748
+      internalID: 1271343284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750f2f1653f4c5649897b058a977b040
+      internalID: 1083048601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_139
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506983899380ef0489ddcdb815633064
+      internalID: -742313391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_140
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8482635af85ef714aa2f14370069d211
+      internalID: 1996889629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_141
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b8e804a970e84293b42261ac335c3
+      internalID: 2135470074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_142
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7849f72ce070b384496724821a8a90d1
+      internalID: 224043680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_143
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62840a897991301418d7b627a38a7955
+      internalID: 243546862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_144
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e9df7ce47dde949879d7d42337a955
+      internalID: 2021490875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_145
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c01f60a62b6f34ab1b3be07c2060ef
+      internalID: 112438197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_146
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7780bd8ccfc3cc440a0ef6fc8c51ee8c
+      internalID: 1029251943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_147
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03a1b45e3319f648be6860dc4eb78c5
+      internalID: -520568773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_148
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f2b0a02e93b0429466e3137e13e0b
+      internalID: -2005059874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_149
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76421947e0fa0804f80f0a438d9c3300
+      internalID: 780226046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_150
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d938a86173b8f9645a273b8940b09d1f
+      internalID: -200525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_151
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184225fea566ada4d8ea7e349c706baf
+      internalID: 1205746663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_152
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a48fe848061a4bb1c60eb786d5267
+      internalID: -2040479297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_153
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7746411e62054eb35a4c9e0043b52
+      internalID: 1768714610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_154
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91b969ae4dde648b24a7a372879758
+      internalID: -1548772628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_155
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9133eefbd5c2b488f077314562c56d
+      internalID: 1899650898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_156
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7467a6881f560d846ae39afbd89e0eb5
+      internalID: -545308679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_157
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b1fa25b99da1e42a2654ef5fc14976
+      internalID: 503507031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_158
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864ef337380056541b99cd28be74058d
+      internalID: -98874739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_159
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1108060789eb634db23845f62ebfc6b
+      internalID: 1437894979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_160
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 304
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f3499f8c98d7540a1f9ab4a74ac4f7
+      internalID: 1897057048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294a5860bd4799446a7676dab4d3d8be
+      internalID: -2077466668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4e00dcdb3c9e543be3d4b80a58bf75
+      internalID: -1000403779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_163
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda681a94c7af4e4aaf8f3e8c735db68
+      internalID: -1277984213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_164
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2573955801e2f4191cd1b454859cfc
+      internalID: 472793860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_165
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ca71c3bad9804ca81619963f0310f
+      internalID: 1639130604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_166
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8be27d77e2092b428b4cd9713354970
+      internalID: 1750772851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_167
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fdbb9a9e2857b41a073ede6e0b6511
+      internalID: -1751666424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_168
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f0465ad58a7eb448c76fc54128f3ac
+      internalID: 1364008779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_169
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee3fcd0cf4a93a4c825fc9b1ccc4169
+      internalID: -1773105646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_170
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f2278290cac574898519063867a9b8
+      internalID: 980686808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_171
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52ac164b6ccbd24581a81849757c290
+      internalID: -1393072108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_172
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243690ac9715eab4b92e8d6c6bf38434
+      internalID: -698758502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_173
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60583dbdf58722349a192f4a824183e8
+      internalID: 1887289164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_174
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36b48f8a17f1d94eb1aaf3be4ffaf18
+      internalID: 1208767329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_175
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa94188262afe3b4e9e21b499367a8c8
+      internalID: 1014879003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_176
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad38b67f22297844b596a10c00180bc
+      internalID: 278756062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_177
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f0b1d888215d04ba4eb9d1f858e8b5
+      internalID: -1980949883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_178
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62883b487c6bc1742a13ab163d45a75e
+      internalID: -49886312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_179
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6200327f4f2b84bbbabfd7b0477cb4
+      internalID: -1139792057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_180
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1948189c3fb8743aff56eaab1cb77c
+      internalID: 1008594370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_181
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec7aeb70b95a0642bca86759b623d69
+      internalID: 1890850077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_182
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cac99b960506834ab98d6f462645514
+      internalID: -221040500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_183
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 267
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1c1d107ff1cc74c98d5b96b8af6542
+      internalID: -1803008377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0570997a6da02fb4e8e1ff1550b634f5
+      internalID: 387382149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_185
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268852c593efd149a16271fb02890b6
+      internalID: -937070561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_186
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9f6e0c3d7506343a012daccf5ceb84
+      internalID: -2066489661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_187
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e902dd2ee9a4a3c49b352220dfdcb8b4
+      internalID: -674543760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_188
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b9c77e3fdb9948af02f098af5f9cb
+      internalID: -400190890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_189
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06911ac9a7b65f445a1501c8b346fcea
+      internalID: -1931466320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_190
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6667fad41cdbaef4dba6c04f6cff0d37
+      internalID: -1022042048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_191
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d924a8d53b4bbcb4fabae276fa21965b
+      internalID: 622686758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_192
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de314459622de534da27add1e3839625
+      internalID: 400471112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_193
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53d9c5ff9fad54f9c280ed02431043
+      internalID: -140171405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_194
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3b8bb632cb59e4ba62d0dae0c47399
+      internalID: -159276463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_195
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87321cc863fe9a418f2f7fd8898d650
+      internalID: 1788797278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_196
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b681616225a30043bdd88cb893da3d0
+      internalID: 2030241383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_197
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e026978db17345a52019d182b5b7d
+      internalID: -1244201559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_198
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd85566ccf50e8b4bb22e537b40bc53c
+      internalID: -1443729869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_199
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b7f2f3c0f350e458d5e507d66d6ba5
+      internalID: -1149827099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_200
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c88bc39dc19e54292a5a147e0bdb4a
+      internalID: 1036434410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_201
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0639d0fd198b14186fb3088c0c6709
+      internalID: 1178915785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_202
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2ea6360737fb4e8b8f2f9004fe2b7
+      internalID: -1404649121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_203
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ed6448c601fe04a820bf70692aff2c
+      internalID: -62319514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_204
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f83dbea29da2b34ea06b9170f06afa5
+      internalID: 1649886412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_205
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b1ef9df3642149a5fd655dc551d1f
+      internalID: 967928459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_206
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 230
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c79dabedc70944ac5834abbfa5b38
+      internalID: -942515025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb3ea0bcf116c49bbd2a9b3a18d10f
+      internalID: -585874912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_208
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fc5c397b856914e92ec1d959f83ce7
+      internalID: 173228461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_209
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b336e702048349adc292a512d1236
+      internalID: 1060917697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_210
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4005b29b82984646997a7e519d61af8
+      internalID: -1902780142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_211
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c25b76efd431f4485524180e3ec9c9
+      internalID: 1318995312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_212
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6bca7793578343ad99c204e4b60f2
+      internalID: 594264204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_213
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d5b2b5251493845b69c1a01cff8498
+      internalID: -915356855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_214
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21ce40896a40b4791bed9afaf01b79
+      internalID: 2086808919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_215
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294c5a05099fe841bdf4551c43d6703
+      internalID: 174575626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_216
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a82901b02e19b48b9becd329e57bd3
+      internalID: -1038820246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_217
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf0ea65037c04a4db9c0e2cf40a771e
+      internalID: -992830234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_218
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c44949ef37594eb7578966e829249
+      internalID: 1547898870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_219
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f18099aed5b9341ac40eb149d24419
+      internalID: -369623961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_220
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd423eef37e7645458f495fee07b6753
+      internalID: 322963861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_221
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c5a81bd7a01694dbc0e147ac9f132d
+      internalID: 351390899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_222
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb30b0434ef89ea45b2a82eb76a91dbe
+      internalID: -1629894651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_223
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1756467e1af5b8418f4a490e38476b4
+      internalID: -1046236490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_224
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936aeee74ee36c4092ee81cc8342f12
+      internalID: 1558930062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_225
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817570a7df5fe2a459aaf3293bbdee6a
+      internalID: -1331860297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_226
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f454de7dfc1dc748be368af25c4f621
+      internalID: -600899317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_227
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afeb14963b2cff4fbb024c25b871c85
+      internalID: -355506387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_228
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129c8da5b9ffafd45b13e45acc1c8b77
+      internalID: -1287456189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_229
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 193
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47a4f9639cb88468719fa76ccfdf81
+      internalID: -450142316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5653b66de9c4a6b4d876687c30cb866f
+      internalID: 1956899109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_231
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a70d9c73f05c5d48a5cd067315fdc5b
+      internalID: -132546652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_232
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f284227467d14d8e582ff184c98a3
+      internalID: -720324065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_233
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ebb95abc7a5c459b28eb851197ef7
+      internalID: -278920143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_234
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8917c5d4a3498fd4d8d45f55be9e6f86
+      internalID: -1825000896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_235
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47f26b0129ad614d9af5ce9d3ebc5cb
+      internalID: 307441731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_236
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c5270fc6a173409a9d5b82344e721
+      internalID: 393865314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_237
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f3e165d848f1d4486479919a311a25
+      internalID: -1582374646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_238
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4119a61d278efa48913d3c16c085062
+      internalID: 98536121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_239
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1ce868d5621be4e9e9a1747ccef1ee
+      internalID: -1311518509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_240
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d16a52513719e4f9d54583e315ef80
+      internalID: 953603566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_241
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14410b8fe0c5d8544aa66ede2993f4bd
+      internalID: -972505099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_242
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077bff5bee1b0c4fbb3cd52e934d283
+      internalID: -15338177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_243
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b31db1f9d93ab4bba23e243e0b2685
+      internalID: -1355539551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_244
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1615731e5cc3043bfc6f891bab9817
+      internalID: -1240662431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_245
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b25d673b328d643891fd5d97343204
+      internalID: -877952105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_246
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6631d7787c2cf94b9e16daac3e601a7
+      internalID: -1609074795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_247
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ad48041b586740af3ef1649e33b1b
+      internalID: 1759435294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_248
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e58216b952d9bb4c87760fa622ff8bd
+      internalID: -1181419548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_249
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb6145c172589479b230e6b2623427
+      internalID: -600687876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_250
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1cfd7b7d94cd4e86acb578f136490
+      internalID: -1535496117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_251
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826f4907e49230d4693b4386ebc15dce
+      internalID: 1436911494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_252
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 156
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d200c501f4e4eb040a0ead0aa9f1ad77
+      internalID: -1218982132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc59739cdd90d34087d55a2e69e859a
+      internalID: -1213128125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_254
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0d4d798308f444fad4fcf4f054aac3
+      internalID: 673308754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_255
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ca2d420d95f3458bc103f8cfc493e
+      internalID: 1946214878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_256
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d8204f8ff519646838785137410576
+      internalID: 179809450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_257
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fead9cd006ae8404f8b268a4398c1873
+      internalID: -1560493477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_258
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853461a58e5ac1042909f5a78b9cfd90
+      internalID: -569024414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_259
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db9624f551eca419c68f4654f61dc8
+      internalID: 1589043379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_260
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20558200daeb53142a1011f9b2e22246
+      internalID: -1452228354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_261
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebae50e1e0d092c42b7e217553bc2228
+      internalID: -1146496825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_262
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbcd6c8456fc0b4d83258f5285421d8
+      internalID: 498499589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_263
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083a72bd5508f654cb425510e4ab7f5e
+      internalID: 1500438727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_264
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659003da69f701b46896d76d674b2496
+      internalID: 767535008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_265
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5549c08b735a944ea680d5b5404eb27
+      internalID: -727402630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_266
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a8b5f6a7d35749ae0ed3c97e01baa
+      internalID: 855646310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_267
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee913cf7d94e4b844afde0fe114266aa
+      internalID: 721890494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_268
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570629c9f9808034eb419dc780a8c2ae
+      internalID: 1783914624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_269
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae5026e9caf37489980ee9f4b3069e
+      internalID: 949233877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_270
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425f8065010614445a649394bc50d25e
+      internalID: -1593548970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_271
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9997365e7ca48c46a7f9b9d936883f2
+      internalID: -805644326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_272
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ed9ceb63d2a5740be237df7a9f1823
+      internalID: -83002913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_273
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177db64c0a5fc5647bc9dada302ba282
+      internalID: -128748683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_274
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628e5e02a20884c42bc9d3c8ef99448f
+      internalID: 1105372272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_275
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 119
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc9a782be85f6341badb6eb03e9fa91
+      internalID: 112033808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_276
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c68514b95ef846839a4817579ef1f
+      internalID: -156792791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_277
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af2ee0ee578cf4489befb24dbba0d4
+      internalID: 1437347938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_278
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df412753082dd48946b4225b884d4b
+      internalID: -872667311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_279
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fee563d40856c4da860d158c9a5882
+      internalID: -1134472193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_280
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe66b2ebbc382e42a99ef7c491eb62f
+      internalID: -200085568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_281
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d466e35dd51f64bacd534fad326aeb
+      internalID: -643719301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_282
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0cb91ffb57dd646be0e9f39db64a84
+      internalID: 1485841707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_283
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e867fec489c2e084eb6cc9acf6b34450
+      internalID: 326775079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_284
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a29be650fe086449b7d140fe4f03f11
+      internalID: 432635638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_285
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40362ca324004294f8060badbed58adc
+      internalID: -1480048682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_286
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10958583662fe6d47bae05b425c8264b
+      internalID: -768291670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_287
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6936bf0320cd7d049bfa35b5268e690a
+      internalID: 1113134771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_288
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f811df7edd02e4c4fbd8e492b64c573b
+      internalID: -1792195314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_289
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b74741da6aaec49b102835ce87643c
+      internalID: -159140802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_290
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290e123a94dcc94797e23e3519da3a9
+      internalID: -182859340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_291
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5de801615d6994da4469e714869145
+      internalID: 1767429122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_292
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858fd19ebe83f24f91b1ffc7662f574
+      internalID: 433947664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_293
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db6d3beaac671343adaaf3ad1410612
+      internalID: -113469091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_294
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c248180d9e3dc046b695498d63603c3
+      internalID: 1511832554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_295
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4f3a5840c622a49b635b2ba214ae2b
+      internalID: 386859647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_296
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517b6374700bc434f9da31edb15efaa3
+      internalID: 160188054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_297
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23980bdb7084842b7bdf3a9f69e388
+      internalID: -882875332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_298
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 82
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98df76f74c21ec24ebca01e6218e85b2
+      internalID: -305075339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_299
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844b3ebe775a3dd4bba364e8f4a0909c
+      internalID: -698916857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_300
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c9d353a351b84f931712d9b91ccb6
+      internalID: -812870415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_301
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c4f97b68933154d87304e603e83f16
+      internalID: -208802611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_302
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de570aa50e61cb42a7ee84752f21eaa
+      internalID: -1004846714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_303
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9460180c4b31e469eed7e75c4d722c
+      internalID: 2140116362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_304
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc4f1e0dc79ef45bee78be84509bfd
+      internalID: 1641232629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_305
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16bd0ab0d16614088a78672cbf0cde
+      internalID: 512527626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_306
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5b225ab6993904cafbd0305060687e
+      internalID: 1321574727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_307
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ffe8e892ab0f444a719226167882e2
+      internalID: -790706151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_308
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad556160661ee4478bd4a6b7ad4ab7a
+      internalID: -664419577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_309
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99352689823f24e4bbb1c6d4a5adf794
+      internalID: -148828848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_310
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8052e998e57403041b9825452b0938c6
+      internalID: 988247025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_311
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443f44cddfa868e4281c5193239705a6
+      internalID: -1509256391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_312
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8baff669c562d47bb23cb87ece75e7
+      internalID: -55938275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_313
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6f052181211a547a82b14b1ff4c6f5
+      internalID: 1827899269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_314
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab44b2a93ec2864f97e9d15ad5124bd
+      internalID: 398314396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_315
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9604516a42f13e44da7af001c1ae847f
+      internalID: 275318732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_316
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91421bfe8d3a86540900920dec741072
+      internalID: -522266597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_317
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c34253efd69dde45b6689fc48a01cb7
+      internalID: 1599439703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_318
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd80dcb43fdcd674daa731bbb34e3f40
+      internalID: -907658478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_319
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937b4946ec7201a499a1cf4098d229f8
+      internalID: -891373385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_320
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f8d72c506c4eb4cab83fcd292ba47b
+      internalID: 1288148801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_321
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 45
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac3186ce65d583408164ff4b30a4886
+      internalID: 1101576689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_322
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f0f32b747179548a3943e2ebf1ac8e
+      internalID: -1251800240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_323
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16471fdd71948c74aad09d93e51b538b
+      internalID: -1896889882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_324
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2890391c6eb208f4c8a38aeca1ec2de1
+      internalID: 406804186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_325
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47338a327248a3a4b99f29c1c2ec962b
+      internalID: 2103243232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_326
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042825c915aaef74f8c7c8394e30ac63
+      internalID: -234690226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_327
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093053fb4c171134cb42d14d6f45410a
+      internalID: 1519406638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_328
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d013830db6f4454cabcab8a296141cd
+      internalID: 2028765501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_329
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a3c5f7d02ed4f4497fd6972e809d87
+      internalID: -724454372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_330
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e24fb3cbaebef42a8c28fde994d646
+      internalID: -1472957910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_331
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fec20e163c0a14ea15fdcf8527f71b
+      internalID: 1053754831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_332
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eef842b4fe47b43a8f1c33ed5ebcdb
+      internalID: -1081195543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_333
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111ee1c60907fc47b3a7e11af44465d
+      internalID: -1466794646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_334
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666f325dc78b33343ace076fdf39b72d
+      internalID: -1014688632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_335
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce0caa26364c32458a28b8f1a993fc3
+      internalID: 414064280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_336
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8678f4f55c0104dae2a09be075ab91
+      internalID: -1260601428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_337
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20dee371ab7474fbacd255236947d0
+      internalID: -1360263207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_338
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5087ce2c1c0d34f88e299751c43bab
+      internalID: 672750459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_339
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c97be3f6d99544a7501bef945ad6d
+      internalID: 632367372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_340
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390eb6bf262042e42af4023274411ea9
+      internalID: 737099984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_341
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c89dcd78052e74c962643c48ffbfab
+      internalID: -1936705392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_342
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0234eaf00d964cb42a8b86c03d00112d
+      internalID: -228244167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_343
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a721e822859896444823eae2bc9ac425
+      internalID: 53683557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mapa da coleta itens_344
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 8
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13907973ec4c374bb77bc054ea62035
+      internalID: 900837739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mapa da coleta itens_0: 354651798
+      mapa da coleta itens_1: -374934615
+      mapa da coleta itens_10: -1025028097
+      mapa da coleta itens_100: -515924211
+      mapa da coleta itens_101: -639441383
+      mapa da coleta itens_102: -521330662
+      mapa da coleta itens_103: 297972955
+      mapa da coleta itens_104: -1261863401
+      mapa da coleta itens_105: 996626961
+      mapa da coleta itens_106: 1006884126
+      mapa da coleta itens_107: 2072068083
+      mapa da coleta itens_108: 239561968
+      mapa da coleta itens_109: -1092217973
+      mapa da coleta itens_11: 1773145207
+      mapa da coleta itens_110: 11751834
+      mapa da coleta itens_111: 1406647593
+      mapa da coleta itens_112: -1974783616
+      mapa da coleta itens_113: -2142245502
+      mapa da coleta itens_114: 1949354132
+      mapa da coleta itens_115: 1935850757
+      mapa da coleta itens_116: 1602019826
+      mapa da coleta itens_117: -1923009830
+      mapa da coleta itens_118: 2092541007
+      mapa da coleta itens_119: -1977649618
+      mapa da coleta itens_12: -1786405668
+      mapa da coleta itens_120: 1138994776
+      mapa da coleta itens_121: 1753301208
+      mapa da coleta itens_122: 349718057
+      mapa da coleta itens_123: 1933691656
+      mapa da coleta itens_124: 1710062693
+      mapa da coleta itens_125: 330975443
+      mapa da coleta itens_126: -404625552
+      mapa da coleta itens_127: -1156477
+      mapa da coleta itens_128: -173899300
+      mapa da coleta itens_129: -1732726070
+      mapa da coleta itens_13: -298116349
+      mapa da coleta itens_130: 607757231
+      mapa da coleta itens_131: 982984680
+      mapa da coleta itens_132: -1351512201
+      mapa da coleta itens_133: 1170843713
+      mapa da coleta itens_134: -268274929
+      mapa da coleta itens_135: 446754741
+      mapa da coleta itens_136: -1912621061
+      mapa da coleta itens_137: 1271343284
+      mapa da coleta itens_138: 1083048601
+      mapa da coleta itens_139: -742313391
+      mapa da coleta itens_14: -495118056
+      mapa da coleta itens_140: 1996889629
+      mapa da coleta itens_141: 2135470074
+      mapa da coleta itens_142: 224043680
+      mapa da coleta itens_143: 243546862
+      mapa da coleta itens_144: 2021490875
+      mapa da coleta itens_145: 112438197
+      mapa da coleta itens_146: 1029251943
+      mapa da coleta itens_147: -520568773
+      mapa da coleta itens_148: -2005059874
+      mapa da coleta itens_149: 780226046
+      mapa da coleta itens_15: -1929061661
+      mapa da coleta itens_150: -200525
+      mapa da coleta itens_151: 1205746663
+      mapa da coleta itens_152: -2040479297
+      mapa da coleta itens_153: 1768714610
+      mapa da coleta itens_154: -1548772628
+      mapa da coleta itens_155: 1899650898
+      mapa da coleta itens_156: -545308679
+      mapa da coleta itens_157: 503507031
+      mapa da coleta itens_158: -98874739
+      mapa da coleta itens_159: 1437894979
+      mapa da coleta itens_16: 149448521
+      mapa da coleta itens_160: 1897057048
+      mapa da coleta itens_161: -2077466668
+      mapa da coleta itens_162: -1000403779
+      mapa da coleta itens_163: -1277984213
+      mapa da coleta itens_164: 472793860
+      mapa da coleta itens_165: 1639130604
+      mapa da coleta itens_166: 1750772851
+      mapa da coleta itens_167: -1751666424
+      mapa da coleta itens_168: 1364008779
+      mapa da coleta itens_169: -1773105646
+      mapa da coleta itens_17: 551828266
+      mapa da coleta itens_170: 980686808
+      mapa da coleta itens_171: -1393072108
+      mapa da coleta itens_172: -698758502
+      mapa da coleta itens_173: 1887289164
+      mapa da coleta itens_174: 1208767329
+      mapa da coleta itens_175: 1014879003
+      mapa da coleta itens_176: 278756062
+      mapa da coleta itens_177: -1980949883
+      mapa da coleta itens_178: -49886312
+      mapa da coleta itens_179: -1139792057
+      mapa da coleta itens_18: 1817032434
+      mapa da coleta itens_180: 1008594370
+      mapa da coleta itens_181: 1890850077
+      mapa da coleta itens_182: -221040500
+      mapa da coleta itens_183: -1803008377
+      mapa da coleta itens_184: 387382149
+      mapa da coleta itens_185: -937070561
+      mapa da coleta itens_186: -2066489661
+      mapa da coleta itens_187: -674543760
+      mapa da coleta itens_188: -400190890
+      mapa da coleta itens_189: -1931466320
+      mapa da coleta itens_19: 210478595
+      mapa da coleta itens_190: -1022042048
+      mapa da coleta itens_191: 622686758
+      mapa da coleta itens_192: 400471112
+      mapa da coleta itens_193: -140171405
+      mapa da coleta itens_194: -159276463
+      mapa da coleta itens_195: 1788797278
+      mapa da coleta itens_196: 2030241383
+      mapa da coleta itens_197: -1244201559
+      mapa da coleta itens_198: -1443729869
+      mapa da coleta itens_199: -1149827099
+      mapa da coleta itens_2: -998747808
+      mapa da coleta itens_20: -1530802703
+      mapa da coleta itens_200: 1036434410
+      mapa da coleta itens_201: 1178915785
+      mapa da coleta itens_202: -1404649121
+      mapa da coleta itens_203: -62319514
+      mapa da coleta itens_204: 1649886412
+      mapa da coleta itens_205: 967928459
+      mapa da coleta itens_206: -942515025
+      mapa da coleta itens_207: -585874912
+      mapa da coleta itens_208: 173228461
+      mapa da coleta itens_209: 1060917697
+      mapa da coleta itens_21: 1000345541
+      mapa da coleta itens_210: -1902780142
+      mapa da coleta itens_211: 1318995312
+      mapa da coleta itens_212: 594264204
+      mapa da coleta itens_213: -915356855
+      mapa da coleta itens_214: 2086808919
+      mapa da coleta itens_215: 174575626
+      mapa da coleta itens_216: -1038820246
+      mapa da coleta itens_217: -992830234
+      mapa da coleta itens_218: 1547898870
+      mapa da coleta itens_219: -369623961
+      mapa da coleta itens_22: -1735870845
+      mapa da coleta itens_220: 322963861
+      mapa da coleta itens_221: 351390899
+      mapa da coleta itens_222: -1629894651
+      mapa da coleta itens_223: -1046236490
+      mapa da coleta itens_224: 1558930062
+      mapa da coleta itens_225: -1331860297
+      mapa da coleta itens_226: -600899317
+      mapa da coleta itens_227: -355506387
+      mapa da coleta itens_228: -1287456189
+      mapa da coleta itens_229: -450142316
+      mapa da coleta itens_23: 1247852057
+      mapa da coleta itens_230: 1956899109
+      mapa da coleta itens_231: -132546652
+      mapa da coleta itens_232: -720324065
+      mapa da coleta itens_233: -278920143
+      mapa da coleta itens_234: -1825000896
+      mapa da coleta itens_235: 307441731
+      mapa da coleta itens_236: 393865314
+      mapa da coleta itens_237: -1582374646
+      mapa da coleta itens_238: 98536121
+      mapa da coleta itens_239: -1311518509
+      mapa da coleta itens_24: -1710916922
+      mapa da coleta itens_240: 953603566
+      mapa da coleta itens_241: -972505099
+      mapa da coleta itens_242: -15338177
+      mapa da coleta itens_243: -1355539551
+      mapa da coleta itens_244: -1240662431
+      mapa da coleta itens_245: -877952105
+      mapa da coleta itens_246: -1609074795
+      mapa da coleta itens_247: 1759435294
+      mapa da coleta itens_248: -1181419548
+      mapa da coleta itens_249: -600687876
+      mapa da coleta itens_25: 969924420
+      mapa da coleta itens_250: -1535496117
+      mapa da coleta itens_251: 1436911494
+      mapa da coleta itens_252: -1218982132
+      mapa da coleta itens_253: -1213128125
+      mapa da coleta itens_254: 673308754
+      mapa da coleta itens_255: 1946214878
+      mapa da coleta itens_256: 179809450
+      mapa da coleta itens_257: -1560493477
+      mapa da coleta itens_258: -569024414
+      mapa da coleta itens_259: 1589043379
+      mapa da coleta itens_26: 873970884
+      mapa da coleta itens_260: -1452228354
+      mapa da coleta itens_261: -1146496825
+      mapa da coleta itens_262: 498499589
+      mapa da coleta itens_263: 1500438727
+      mapa da coleta itens_264: 767535008
+      mapa da coleta itens_265: -727402630
+      mapa da coleta itens_266: 855646310
+      mapa da coleta itens_267: 721890494
+      mapa da coleta itens_268: 1783914624
+      mapa da coleta itens_269: 949233877
+      mapa da coleta itens_27: -1310793002
+      mapa da coleta itens_270: -1593548970
+      mapa da coleta itens_271: -805644326
+      mapa da coleta itens_272: -83002913
+      mapa da coleta itens_273: -128748683
+      mapa da coleta itens_274: 1105372272
+      mapa da coleta itens_275: 112033808
+      mapa da coleta itens_276: -156792791
+      mapa da coleta itens_277: 1437347938
+      mapa da coleta itens_278: -872667311
+      mapa da coleta itens_279: -1134472193
+      mapa da coleta itens_28: 436120703
+      mapa da coleta itens_280: -200085568
+      mapa da coleta itens_281: -643719301
+      mapa da coleta itens_282: 1485841707
+      mapa da coleta itens_283: 326775079
+      mapa da coleta itens_284: 432635638
+      mapa da coleta itens_285: -1480048682
+      mapa da coleta itens_286: -768291670
+      mapa da coleta itens_287: 1113134771
+      mapa da coleta itens_288: -1792195314
+      mapa da coleta itens_289: -159140802
+      mapa da coleta itens_29: 780336241
+      mapa da coleta itens_290: -182859340
+      mapa da coleta itens_291: 1767429122
+      mapa da coleta itens_292: 433947664
+      mapa da coleta itens_293: -113469091
+      mapa da coleta itens_294: 1511832554
+      mapa da coleta itens_295: 386859647
+      mapa da coleta itens_296: 160188054
+      mapa da coleta itens_297: -882875332
+      mapa da coleta itens_298: -305075339
+      mapa da coleta itens_299: -698916857
+      mapa da coleta itens_3: 1686456570
+      mapa da coleta itens_30: -1820345853
+      mapa da coleta itens_300: -812870415
+      mapa da coleta itens_301: -208802611
+      mapa da coleta itens_302: -1004846714
+      mapa da coleta itens_303: 2140116362
+      mapa da coleta itens_304: 1641232629
+      mapa da coleta itens_305: 512527626
+      mapa da coleta itens_306: 1321574727
+      mapa da coleta itens_307: -790706151
+      mapa da coleta itens_308: -664419577
+      mapa da coleta itens_309: -148828848
+      mapa da coleta itens_31: -927336320
+      mapa da coleta itens_310: 988247025
+      mapa da coleta itens_311: -1509256391
+      mapa da coleta itens_312: -55938275
+      mapa da coleta itens_313: 1827899269
+      mapa da coleta itens_314: 398314396
+      mapa da coleta itens_315: 275318732
+      mapa da coleta itens_316: -522266597
+      mapa da coleta itens_317: 1599439703
+      mapa da coleta itens_318: -907658478
+      mapa da coleta itens_319: -891373385
+      mapa da coleta itens_32: -940615254
+      mapa da coleta itens_320: 1288148801
+      mapa da coleta itens_321: 1101576689
+      mapa da coleta itens_322: -1251800240
+      mapa da coleta itens_323: -1896889882
+      mapa da coleta itens_324: 406804186
+      mapa da coleta itens_325: 2103243232
+      mapa da coleta itens_326: -234690226
+      mapa da coleta itens_327: 1519406638
+      mapa da coleta itens_328: 2028765501
+      mapa da coleta itens_329: -724454372
+      mapa da coleta itens_33: -1922374345
+      mapa da coleta itens_330: -1472957910
+      mapa da coleta itens_331: 1053754831
+      mapa da coleta itens_332: -1081195543
+      mapa da coleta itens_333: -1466794646
+      mapa da coleta itens_334: -1014688632
+      mapa da coleta itens_335: 414064280
+      mapa da coleta itens_336: -1260601428
+      mapa da coleta itens_337: -1360263207
+      mapa da coleta itens_338: 672750459
+      mapa da coleta itens_339: 632367372
+      mapa da coleta itens_34: -1136664739
+      mapa da coleta itens_340: 737099984
+      mapa da coleta itens_341: -1936705392
+      mapa da coleta itens_342: -228244167
+      mapa da coleta itens_343: 53683557
+      mapa da coleta itens_344: 900837739
+      mapa da coleta itens_35: -970263014
+      mapa da coleta itens_36: 1884551307
+      mapa da coleta itens_37: -1143458868
+      mapa da coleta itens_38: -97409188
+      mapa da coleta itens_39: -222092962
+      mapa da coleta itens_4: 891504912
+      mapa da coleta itens_40: -1681583434
+      mapa da coleta itens_41: -1506255439
+      mapa da coleta itens_42: -1303566085
+      mapa da coleta itens_43: -1915516002
+      mapa da coleta itens_44: -1891482224
+      mapa da coleta itens_45: -1911282559
+      mapa da coleta itens_46: -190740416
+      mapa da coleta itens_47: 2087801741
+      mapa da coleta itens_48: -669621206
+      mapa da coleta itens_49: 23884987
+      mapa da coleta itens_5: 239272196
+      mapa da coleta itens_50: -1474938325
+      mapa da coleta itens_51: 1289551747
+      mapa da coleta itens_52: 298389264
+      mapa da coleta itens_53: -204867251
+      mapa da coleta itens_54: 1341590249
+      mapa da coleta itens_55: -1888951382
+      mapa da coleta itens_56: 471214668
+      mapa da coleta itens_57: 637946335
+      mapa da coleta itens_58: -2141107032
+      mapa da coleta itens_59: -2031890865
+      mapa da coleta itens_6: 2097029697
+      mapa da coleta itens_60: 570355843
+      mapa da coleta itens_61: 265559461
+      mapa da coleta itens_62: 782907554
+      mapa da coleta itens_63: -1370893483
+      mapa da coleta itens_64: 218633047
+      mapa da coleta itens_65: -33735512
+      mapa da coleta itens_66: 250396456
+      mapa da coleta itens_67: -1452103838
+      mapa da coleta itens_68: -460471366
+      mapa da coleta itens_69: -1690008107
+      mapa da coleta itens_7: 1539456061
+      mapa da coleta itens_70: 454884663
+      mapa da coleta itens_71: -1932414495
+      mapa da coleta itens_72: -607743054
+      mapa da coleta itens_73: -1885140036
+      mapa da coleta itens_74: 1783596053
+      mapa da coleta itens_75: 742290834
+      mapa da coleta itens_76: 1124118874
+      mapa da coleta itens_77: -252694526
+      mapa da coleta itens_78: 416286315
+      mapa da coleta itens_79: -1509912041
+      mapa da coleta itens_8: -1701425955
+      mapa da coleta itens_80: 1331941964
+      mapa da coleta itens_81: -655045997
+      mapa da coleta itens_82: 1799186179
+      mapa da coleta itens_83: -2429321
+      mapa da coleta itens_84: -1741319212
+      mapa da coleta itens_85: 786389426
+      mapa da coleta itens_86: 183387088
+      mapa da coleta itens_87: 2002420946
+      mapa da coleta itens_88: -870136214
+      mapa da coleta itens_89: -1618206362
+      mapa da coleta itens_9: -1343500761
+      mapa da coleta itens_90: 119161150
+      mapa da coleta itens_91: -1453066365
+      mapa da coleta itens_92: -57190550
+      mapa da coleta itens_93: 745172401
+      mapa da coleta itens_94: 1199772172
+      mapa da coleta itens_95: 1774612694
+      mapa da coleta itens_96: -837283998
+      mapa da coleta itens_97: -823313244
+      mapa da coleta itens_98: 2108158809
+      mapa da coleta itens_99: 993164068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

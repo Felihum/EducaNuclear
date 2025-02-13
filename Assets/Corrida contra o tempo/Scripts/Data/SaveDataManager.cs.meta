@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd9fcaddf256d8f4094e7bdeb85fdf7c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _factoryDataObject: {fileID: 11400000, guid: 8c7448be7709774468a8d9e8cd2df57a, type: 2}
+  - _farmDataObject: {fileID: 11400000, guid: 0c6a286177042934b91c135103a31a2a, type: 2}
+  - _forestDataObject: {fileID: 11400000, guid: a22102474a8581b4fbc019d4ea84b4f7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
