@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: e542013016ab9314fb6c5241276fb241
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheets fazenda_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 596
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: -61}
+        - {x: -61, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6429830008c242b8f721f7cc23dbb
+      internalID: -1206787328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 596
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 61, y: 64}
+        - {x: -64, y: -61}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6a6df2fc3d5d438dbafdf8570c971
+      internalID: 288753127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 596
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4cab1f00da3574ead701d8d1426d0a
+      internalID: -638712225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 596
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92841605cf8fc4f45a7ab30da9c7da67
+      internalID: -1061754070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_4
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 596
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d266240822652646bd54c384c3d4f41
+      internalID: 1768247558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_5
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 596
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 57, y: -64}
+        - {x: 64, y: -58}
+        - {x: 64, y: 58}
+        - {x: 57, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9b5b7d11fbe524eb07e69aceb1377d
+      internalID: 1611180447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 419
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: -62, y: -64}
+        - {x: 64, y: 61}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc895072ce2eb9c469df90e7efffe5bd
+      internalID: -1164804893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_7
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 419
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 62}
+        - {x: 62, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a1934d6334044b959a51b69c46a81
+      internalID: 1791635785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 419
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a446cc20b87e5ee48bac775b05e2eb43
+      internalID: 1486156025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 419
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b85c7f3781f4a4885d2f9106d4b815
+      internalID: -1004211967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_10
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 419
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57, y: 64}
+        - {x: -64, y: 58}
+        - {x: -64, y: -58}
+        - {x: -57, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed5d76bfda7c6408382fbb6bfd1492
+      internalID: -1554856600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_11
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 448
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 56}
+      outline: []
+      physicsShape:
+      - - {x: -36, y: -3}
+        - {x: -58, y: -33}
+        - {x: -59, y: -55}
+        - {x: -46, y: -64}
+        - {x: 37, y: -64}
+        - {x: 49, y: -51}
+        - {x: 52, y: -26}
+        - {x: 14, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0b7661a90314843a00d18ad15bd17d
+      internalID: -1928539321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 274
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 80, z: 0, w: 34}
+      outline: []
+      physicsShape:
+      - - {x: -70, y: 33}
+        - {x: -70, y: -62}
+        - {x: -68, y: -64}
+        - {x: 70, y: -64}
+        - {x: 70, y: 32}
+        - {x: 55, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f7639dd49274045a25808b0f9d3144
+      internalID: 1429135042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_13
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 80, z: 0, w: 34}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 32}
+        - {x: -64, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b8c45d306c714a96bff5d4ac8bd1f
+      internalID: -1643564261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 274
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 80, z: 0, w: 34}
+      outline: []
+      physicsShape:
+      - - {x: -42, y: 33}
+        - {x: -70, y: 32}
+        - {x: -70, y: -64}
+        - {x: 65, y: -64}
+        - {x: 70, y: -57}
+        - {x: 70, y: 28}
+        - {x: 62, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab1a8d952bea12449bfd12b8369ceb6
+      internalID: -1454272639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 274
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 80, z: 0, w: 34}
+      outline: []
+      physicsShape:
+      - - {x: -58, y: 33}
+        - {x: -64, y: 28}
+        - {x: -64, y: -56}
+        - {x: -61, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815bb2047d38fd740a0970be1322023e
+      internalID: -2003232362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 252
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 24}
+        - {x: 24, y: 54}
+        - {x: 9, y: 40}
+        - {x: 6, y: 61}
+        - {x: -5, y: 37}
+        - {x: -25, y: 57}
+        - {x: -4, y: 25}
+        - {x: -3, y: 1}
+        - {x: -15, y: 8}
+        - {x: 0, y: -14}
+        - {x: -1, y: -27}
+        - {x: -44, y: -14}
+        - {x: -3, y: -43}
+        - {x: -7, y: -64}
+        - {x: 9, y: -64}
+        - {x: 23, y: -3}
+        - {x: 13, y: 0}
+        - {x: 38, y: 37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6abbd6d308db4b9e1005e6224e0c1
+      internalID: -561619803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 40}
+        - {x: -62, y: 38}
+        - {x: 64, y: 38}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d19c45be184f8f4297e584e2af55c2e
+      internalID: 826985096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_18
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 596
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f1ca4ed57da4840a881d7a7b211246
+      internalID: -1182766406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_19
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60, y: 64}
+        - {x: -64, y: 64}
+        - {x: -64, y: 38}
+        - {x: 63, y: 38}
+        - {x: 64, y: 43}
+        - {x: 64, y: 62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2218ecc4d1ce4c408e87d560441f73d
+      internalID: -1798962445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_20
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 445
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 76}
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -15}
+        - {x: -28, y: -15}
+        - {x: -53, y: -28}
+        - {x: -61, y: -47}
+        - {x: -49, y: -64}
+        - {x: 53, y: -64}
+        - {x: 62, y: -52}
+        - {x: 53, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a2fe7464a4756498c50a43f66948b5
+      internalID: -1650957862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 94
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60, y: 64}
+        - {x: -61, y: 64}
+        - {x: -64, y: 59}
+        - {x: -64, y: 42}
+        - {x: -61, y: 38}
+        - {x: -53, y: 37}
+        - {x: 55, y: 37}
+        - {x: 64, y: 41}
+        - {x: 64, y: 60}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a638c8c645ea4b4195004c5e76c1c06
+      internalID: -1855727167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 94
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: 37}
+        - {x: 64, y: 37}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c972d93a31aed964a9fec4ac39950ef3
+      internalID: -2120745274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheets fazenda_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 64
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 47}
+        - {x: -10, y: 26}
+        - {x: -26, y: -3}
+        - {x: -30, y: -17}
+        - {x: -24, y: -39}
+        - {x: -10, y: -47}
+        - {x: 12, y: -46}
+        - {x: 26, y: -36}
+        - {x: 31, y: -18}
+        - {x: 28, y: -1}
+        - {x: 14, y: 26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a42dcd2d0ac7934c9aa9cf7ed5ab8d3
+      internalID: -1502839627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spritesheets fazenda_0: -1206787328
+      spritesheets fazenda_1: 288753127
+      spritesheets fazenda_10: -1554856600
+      spritesheets fazenda_11: -1928539321
+      spritesheets fazenda_12: 1429135042
+      spritesheets fazenda_13: -1643564261
+      spritesheets fazenda_14: -1454272639
+      spritesheets fazenda_15: -2003232362
+      spritesheets fazenda_16: -561619803
+      spritesheets fazenda_17: 826985096
+      spritesheets fazenda_18: -1182766406
+      spritesheets fazenda_19: -1798962445
+      spritesheets fazenda_2: -638712225
+      spritesheets fazenda_20: -1650957862
+      spritesheets fazenda_21: -1855727167
+      spritesheets fazenda_22: -2120745274
+      spritesheets fazenda_23: -1502839627
+      spritesheets fazenda_3: -1061754070
+      spritesheets fazenda_4: 1768247558
+      spritesheets fazenda_5: 1611180447
+      spritesheets fazenda_6: -1164804893
+      spritesheets fazenda_7: 1791635785
+      spritesheets fazenda_8: 1486156025
+      spritesheets fazenda_9: -1004211967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
