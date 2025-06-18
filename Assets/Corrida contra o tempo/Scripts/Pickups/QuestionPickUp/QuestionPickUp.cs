@@ -23,6 +23,7 @@ namespace Corrida
             if (collision.gameObject.CompareTag("Player"))
             {
                 OpenQuestion();
+                GameObject.Destroy(gameObject);
             }
         }
     }
