@@ -8,6 +8,7 @@ public class AnswerScript : MonoBehaviour
     public bool isCorrect = false;
     public QuizManager quizManager;
     public TimeController timeController;
+    public UIManager uiManager;
 
     public void Answer()
     {
@@ -19,15 +20,19 @@ public class AnswerScript : MonoBehaviour
             Time.timeScale = 1;
             PlayerCorrida.Instance.telaDePegunta.SetActive(false);
             Debug.Log("Resposta Certa");
+            PlayerCorrida.Instance.questionsAnswered++;
+            uiManager.UpdateQuestionPointsUI();
+            Debug.Log(PlayerCorrida.Instance.questionsAnswered);
            
         }
         else
         {
+            Time.timeScale = 1;
             PlayerCorrida.Instance.telaDePegunta.SetActive(false);
-            PlayerCorrida.Instance.telaDeDerrota.SetActive(true);
+            /*PlayerCorrida.Instance.telaDeDerrota.SetActive(true);*/
             Debug.Log("Resposta Errada");
 
-            TimeController.Instance.GetComponent<TimeController>().StopTimer();
+            /*TimeController.Instance.GetComponent<TimeController>().StopTimer();*/
             
         }
     }

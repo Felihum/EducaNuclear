@@ -36,6 +36,7 @@ namespace Corrida
         private float stopTimer = 0f;
         private bool isStartingUp = false;
         private bool isStopping = false;
+        public int questionsAnswered = 0;
 
         private float Multiplier => (baseSpeedMultiplier * multiplierIncreaseInternal) / multiplierDecreaseInternal;
         private float RunSpeed => baseSpeed * acceleration * Multiplier;

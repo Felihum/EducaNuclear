@@ -65,6 +65,7 @@ namespace Corrida
             }
 
             GoalReached?.Invoke();
+            
         }
 
         private void OnAnimationEnd()
@@ -85,8 +86,20 @@ namespace Corrida
         {
             if (collision.gameObject.CompareTag("Player"))
             {
-                OnAnimationEnd();
-                OnGoalReached();
+                if (PlayerCorrida.Instance.questionsAnswered >= 3)
+                {
+                    OnAnimationEnd();
+                    OnGoalReached();
+                }
+                else
+                {
+                    Time.timeScale = 0;
+                    PlayerCorrida.Instance.telaDeDerrota.SetActive(true);
+                    Debug.Log("Aqui!!!");
+
+                    TimeController.Instance.GetComponent<TimeController>().StopTimer();
+                }
+                
                
             }
         }

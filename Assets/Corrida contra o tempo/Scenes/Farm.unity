@@ -3603,6 +3603,71 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16e0ce323442f174ea7940417394bd02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &55897442
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -221.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
 --- !u!1001 &107044843
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3660,6 +3725,286 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c25f22cdb33c2de419d2d01422a7c5f4, type: 3}
+--- !u!1001 &123856971
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -114.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!1001 &145838062
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -362.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!4 &145838063 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 145838062}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &181975010 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 834468465}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &192905206
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -197.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!4 &208130868 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 362049522}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &255570486
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -132.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!4 &275534681 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 2026064803}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &327431386
 GameObject:
   m_ObjectHideFlags: 0
@@ -29896,6 +30241,136 @@ PlatformEffector2D:
   m_UseSideFriction: 0
   m_UseSideBounce: 0
   m_SideArc: 1
+--- !u!1001 &362049522
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -41.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!1001 &449986585
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -59.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
 --- !u!1 &498259992
 GameObject:
   m_ObjectHideFlags: 0
@@ -29964,6 +30439,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &535828939 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 449986585}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &574741194 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1636568697820965050, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
@@ -30104,6 +30584,16 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3837920212090481921, guid: 905f3aca79f2b684699c97bd7dcc6a39, type: 3}
   m_PrefabInstance: {fileID: 633257223}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &657810260 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 255570486}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &659303656 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1806025213}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &675776063 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 781465230522266670, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
@@ -30169,6 +30659,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &736801098 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1062097493}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &736930433
 GameObject:
   m_ObjectHideFlags: 0
@@ -30373,6 +30868,71 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &834468465
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -99.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
 --- !u!1001 &841454868
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30553,6 +31113,16 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!4 &949224387 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 123856971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &958269250 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1573288269}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &970576262
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -30614,6 +31184,11 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 3837920212090481921, guid: 905f3aca79f2b684699c97bd7dcc6a39, type: 3}
   m_PrefabInstance: {fileID: 970576262}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &971752474 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1463016719}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &972168997 stripped
 GameObject:
@@ -30908,6 +31483,71 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1062097493
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -273.68
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
 --- !u!114 &1104040019 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 3329180003000809795, guid: 694ff3d5923cf3f45a4d884f50f5a92b, type: 3}
@@ -31049,6 +31689,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1166620875 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5779640742924468810, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+  m_PrefabInstance: {fileID: 5626797439479416409}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1263842936 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6740145448347280377, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
@@ -31144,6 +31795,136 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa559c8589a863147a57441152ab898f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &1328828888
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 66.74
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!1001 &1329465989
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -287.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
 --- !u!1 &1332397650
 GameObject:
   m_ObjectHideFlags: 0
@@ -33285,6 +34066,71 @@ MonoBehaviour:
   _speedDivider: 4
   _playerVelocityThreshold: 0.5
   _liquidParticleSystem: {fileID: 2022567405}
+--- !u!1001 &1370244412
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -242.46
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
 --- !u!1001 &1379132737
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33358,6 +34204,201 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 36b619165ad4e5442a17e6c966feb869, type: 3}
+--- !u!1001 &1396719081
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -75.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!1001 &1463016719
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 17.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!1001 &1477704720
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -337.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
 --- !u!114 &1537608594 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 6474664843222639942, guid: 722fdc7439099474c938b82c8eb051d6, type: 3}
@@ -33369,6 +34410,76 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &1573288269
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -160.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!4 &1601802155 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1798085805}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1646346450
 GameObject:
   m_ObjectHideFlags: 0
@@ -33402,12 +34513,36 @@ Transform:
   - {fileID: 970576263}
   - {fileID: 607371445}
   - {fileID: 633257224}
+  - {fileID: 145838063}
+  - {fileID: 2032640872}
+  - {fileID: 659303656}
+  - {fileID: 1809677089}
+  - {fileID: 736801098}
+  - {fileID: 1653048920}
+  - {fileID: 1847877436}
+  - {fileID: 1991690301}
+  - {fileID: 958269250}
+  - {fileID: 657810260}
+  - {fileID: 949224387}
+  - {fileID: 181975010}
+  - {fileID: 2019351842}
+  - {fileID: 535828939}
+  - {fileID: 208130868}
+  - {fileID: 275534681}
+  - {fileID: 971752474}
+  - {fileID: 1601802155}
+  - {fileID: 2029817204}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!224 &1651962384 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6684583793379909892, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
   m_PrefabInstance: {fileID: 5626797439479416409}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1653048920 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1370244412}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1697813203 stripped
 MonoBehaviour:
@@ -33624,6 +34759,146 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1798085805
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 42.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!1001 &1806025213
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -313.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!4 &1809677089 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1329465989}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1847877436 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 55897442}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1942623624 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8864049160843014948, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
@@ -33635,6 +34910,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!4 &1991690301 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 192905206}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2019351842 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1396719081}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2022567405
 GameObject:
   m_ObjectHideFlags: 0
@@ -38465,6 +39750,81 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     vectorLabel1_3: W
+--- !u!1001 &2026064803
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1646346451}
+    m_Modifications:
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: quizManager
+      value: 
+      objectReference: {fileID: 1027047970}
+    - target: {fileID: 6249530154799691814, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: telaDePergunta
+      value: 
+      objectReference: {fileID: 5626797439479416411}
+    - target: {fileID: 6790629106868136855, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_Name
+      value: QuestionPickUp (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.06578043
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+--- !u!4 &2029817204 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1328828888}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2032640872 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6857910850205129053, guid: c42f680f8e1698945b2b5eddca6ce2a6, type: 3}
+  m_PrefabInstance: {fileID: 1477704720}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2048579125
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38940,9 +40300,25 @@ PrefabInstance:
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 988963065652942048, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: uiManager
+      value: 
+      objectReference: {fileID: 5945916251156267192}
+    - target: {fileID: 988963065652942048, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
       propertyPath: quizManager
       value: 
       objectReference: {fileID: 1027047970}
+    - target: {fileID: 1385721249631438222, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1385721249631438222, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1385721249631438222, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2014190520872333350, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -38975,6 +40351,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameplayCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 3336834356297304276, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: uiManager
+      value: 
+      objectReference: {fileID: 5945916251156267192}
     - target: {fileID: 3336834356297304276, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
       propertyPath: quizManager
       value: 
@@ -39059,6 +40439,18 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: OpenConfiguration
       objectReference: {fileID: 0}
+    - target: {fileID: 5994825805138349172, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: m_text
+      value: Pergunta
+      objectReference: {fileID: 0}
+    - target: {fileID: 5994825805138349172, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6016897786088705204, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: uiManager
+      value: 
+      objectReference: {fileID: 5945916251156267192}
     - target: {fileID: 6016897786088705204, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
       propertyPath: quizManager
       value: 
@@ -39180,9 +40572,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1053012374}
     - target: {fileID: 8173335542131139754, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: uiManager
+      value: 
+      objectReference: {fileID: 5945916251156267192}
+    - target: {fileID: 8173335542131139754, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
       propertyPath: quizManager
       value: 
       objectReference: {fileID: 1027047970}
+    - target: {fileID: 8279593972181232072, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 75.900024
+      objectReference: {fileID: 0}
+    - target: {fileID: 8279593972181232072, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -54.299988
+      objectReference: {fileID: 0}
     - target: {fileID: 8426019548842057434, guid: db3afcc82128c9e4fa3f38aaafb18872, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -39366,6 +40770,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1149960053}
     - target: {fileID: 6614123913326818174, guid: 97df529b70729bd498528761dfe8485c, type: 3}
+      propertyPath: QuestionPointsUI
+      value: 
+      objectReference: {fileID: 1166620875}
+    - target: {fileID: 6614123913326818174, guid: 97df529b70729bd498528761dfe8485c, type: 3}
       propertyPath: finishTimeStartText
       value: 
       objectReference: {fileID: 805054096}
@@ -39401,6 +40809,17 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1027047970}
   m_SourcePrefab: {fileID: 100100000, guid: 97df529b70729bd498528761dfe8485c, type: 3}
+--- !u!114 &5945916251156267192 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6614123913326818174, guid: 97df529b70729bd498528761dfe8485c, type: 3}
+  m_PrefabInstance: {fileID: 5945916251156267191}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 685665352}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e57e918881887de4b9d10f0fdb573ccf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7095962479405424954 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1782388366902084438, guid: 722fdc7439099474c938b82c8eb051d6, type: 3}

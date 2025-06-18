@@ -25,7 +25,8 @@ namespace Corrida
 
         [Header("Referências")]
         [SerializeField] private TextMeshProUGUI LivesCount;
-        
+        [SerializeField] private TextMeshProUGUI QuestionPointsUI;
+
         [SerializeField] private GameObject gameplayCanvas;
         [SerializeField] private Button pauseButton;
         [SerializeField] private GameObject countdownText;
@@ -49,6 +50,11 @@ namespace Corrida
         public void UpdateLivesUI(int lives)
         {
             LivesCount.text = lives.ToString();
+        }
+
+        public void UpdateQuestionPointsUI()
+        {
+            QuestionPointsUI.text = PlayerCorrida.Instance.questionsAnswered.ToString();
         }
 
         public void TogglePauseButton(bool interactable)
