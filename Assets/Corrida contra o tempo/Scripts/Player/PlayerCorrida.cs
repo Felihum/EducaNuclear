@@ -167,7 +167,7 @@ namespace Corrida
 
             if(lives == 0)
             {
-                AbrirPergunta();
+                LoseGame();
             }
 
             hitStopCoroutine ??= StartCoroutine(HitStop(hitStopLength));
@@ -238,11 +238,10 @@ namespace Corrida
 
         }
 
-        public void AbrirPergunta()
+        public void LoseGame()
         {
             Time.timeScale = 0f;
-            telaDePegunta.SetActive(true);
-            quizManager.GerarPergunta();
+            telaDeDerrota.SetActive(true);
         }
 
 
