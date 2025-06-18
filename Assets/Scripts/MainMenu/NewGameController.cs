@@ -12,10 +12,14 @@ namespace EducaNuclear
         private void Start()
         {
             SaveAndLoad.LoadPlayerData();
-            if (SaveAndLoad.playerData.currentPhase > 0)
+            if (SaveAndLoad.playerData != null)
             {
-                JogarBtn.SetActive(true);
+                if (SaveAndLoad.playerData.currentPhase > 0)
+                {
+                    JogarBtn.SetActive(true);
+                }
             }
+                
         }
     }
 }
